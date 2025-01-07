@@ -4,6 +4,8 @@ Do note that I do not offer support for this tool, the purpose of this repositor
 
 This is a refactored project of my previously-paid tool for security researchers, penetration testers, and ethical hackers.  
 
+**How to use?**  
+It is easy to compile the project, simply open the solution and run it as Release. Do not trust/download any EXEs!
 ## Table of Contents
 
 - [Features](#features)  
